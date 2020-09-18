@@ -25,6 +25,6 @@ No decorrer do projeto realizamos diversas atividades, dentre elas:
   Henrique Mirenda </br>
   
 ## Premiação 
-A cerimonia de premiação aconteceu com intuito de prestigiar todos os Projetos de maior destaque da área de tecnologia do segundo semestre de 2019. O meu grupo foi destaque dos projetos integrados com o desenvolvimento do sistema ponto eletrônico. 
+A cerimonia de premiação aconteceu com intuito de prestigiar todos os Projetos de maior destaque da área de tecnologia do segundo semestre de 2019. O meu grupo foi destaque dos projetos integrados com o desenvolvimento do sistema ponto eletrônico, recebendo assim, um certificado emetido pela Universidade de Menção Honrosa.
 
 
