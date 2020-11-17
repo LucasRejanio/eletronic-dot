@@ -1,4 +1,4 @@
-# Eletronic-Dot
+# Eletronic Dot
 O sistema de ponto eletronico foi desenvolvido na Universidade São Judas Tadeu no semestre 2/2019 tendo como objetivo, englobar e integrar nosso aprendizado nas tecnoligas aplicadas pela Universidade.
 
 ## Sobre o Projeto Integrado 
