@@ -1,3 +1,5 @@
+![Test library workflow status](https://github.com/tcort/markdown-link-check/workflows/Test%20library/badge.svg)
+
 # Eletronic Dot
 O sistema de ponto eletronico foi desenvolvido na Universidade São Judas Tadeu no semestre 2/2019 tendo como objetivo, englobar e integrar nosso aprendizado nas tecnoligas aplicadas pela Universidade.
 
