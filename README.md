@@ -1,4 +1,4 @@
-![Test library workflow status](https://github.com/tcort/markdown-link-check/workflows/Test%20library/badge.svg)
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 # Eletronic Dot
 O sistema de ponto eletronico foi desenvolvido na Universidade São Judas Tadeu no semestre 2/2019 tendo como objetivo, englobar e integrar nosso aprendizado nas tecnoligas aplicadas pela Universidade.
